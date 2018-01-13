@@ -1,6 +1,6 @@
 {
   "name": "mathjs-simple-integral",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extends mathjs to be able to compute simple integrals.",
   "main": "index.js",
   "author": "Joel Hoover <joelahoover@gmail.com>",
