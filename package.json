@@ -10,6 +10,18 @@
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelhoover/mathjs-simple-integral"
+  },
+  "bugs": {
+    "url": "https://github.com/joelhoover/mathjs-simple-integral/issues"
+  },
+  "keywords": [
+    "math",
+    "mathjs",
+    "integral"
+  ],
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.1.0"
