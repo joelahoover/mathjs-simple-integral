@@ -1,0 +1,20 @@
+{
+  "name": "mathjs-simple-integral",
+  "version": "0.1.0",
+  "description": "Extends mathjs to be able to compute simple integrals.",
+  "main": "index.js",
+  "author": "Joel Hoover <joelahoover@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "mathjs": "^3.18.1"
+  }
+}
